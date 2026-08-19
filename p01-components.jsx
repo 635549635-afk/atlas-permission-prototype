@@ -34,7 +34,7 @@ const EmployeeSummary = () => (
       <div className="employee-summary__details">
         <strong>陈晨</strong>
         <span className="employee-summary__role">软件产品设计师 · 上海产品研发部</span>
-        <span className="employee-summary__meta">9月7日入职 · 直属经理 王璐 · Atlas 项目至 12月31日</span>
+        <span className="employee-summary__meta">9月7日入职 · 直属经理 王璐 · Atlas 项目至 12月31日 · 9 月 7 日 09:00 前完成权限准备</span>
       </div>
     </div>
   </section>
